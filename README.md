@@ -44,4 +44,4 @@ That's it! You're now ready to start building blazing-fast web applications with
 
 ### Why?
 
-All thanks to the highly inspirational project [nocode](https://github.com/kelseyhightower/nocode).
+Why not? All thanks to the highly inspirational project [nocode](https://github.com/kelseyhightower/nocode).
